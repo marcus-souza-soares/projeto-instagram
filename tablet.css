@@ -1,0 +1,10 @@
+.conteudo-site .direita, 
+.conteudo-site .direita .sidebar {
+    display: none;
+}
+
+.conteudo-site{
+    width: 614px ;
+    margin: 0 auto;
+}
+

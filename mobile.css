@@ -1,0 +1,36 @@
+.icon-inner, 
+.logo-instagram div, 
+.campo-busca,
+.bussula,
+.heart,
+.pessoas {
+	display: none;
+}
+.barra-topo{
+	height: 52px;
+}
+
+.logo-instagram img {
+	position: relative;
+}
+.logo-instagram img {
+	left: 40%;
+	position: absolute;
+}
+.conteudo-site, .conteudo-site .esquerda, .conteudo-site .esquerda .box-stories, .conteiner-stories, .posts, .post, .post .imagem-post {
+	width: 100%;
+}
+.seta-stories {
+	display: none;
+}
+.topo-post, .chao-post {
+	border-radius: inherit;
+}
+.conteudo-site .esquerda .box-stories {
+	margin-top: 53px;
+	background-color: inherit;
+	border: none;
+}
+.post{
+	margin-top: 0px;
+}
